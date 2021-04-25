@@ -15,7 +15,7 @@ export default function Home({ posts }) {
           className="object-cover rounded"
           src="/top.png"
           alt="top"
-          width={1280}
+          width={128}
           height={500}
         />
       </div>
